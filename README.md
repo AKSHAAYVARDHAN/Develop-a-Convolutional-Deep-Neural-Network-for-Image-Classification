@@ -13,7 +13,8 @@ After training, the CNN model will be tested on new, unseen images to verify its
 The objective is to achieve high classification accuracy while minimizing errors using appropriate training techniques, loss functions, and optimization methods.
  
 ## Neural Network Model
-<img width="1024" height="751" alt="image" src="https://github.com/user-attachments/assets/93bdbae8-0b65-4055-b259-4f5163e8cdfb" />
+<img width="1600" height="575" alt="image" src="https://github.com/user-attachments/assets/f506024a-9bf5-4ca6-bdcb-c2ed55d5ee39" />
+
 
 ## DESIGN STEPS
 1.Load and Preprocess Data<br>
